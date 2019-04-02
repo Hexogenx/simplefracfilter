@@ -4,6 +4,9 @@
 // @version        1
 // @description    Remove search results without Tier 1 fractured mod
 // @include        https://www.pathofexile.com/trade/search*
+// @updateURL      https://raw.githubusercontent.com/Hexogenx/simplefracfilter/master/simplefracfilter.user.js
+// @downloadURL    https://raw.githubusercontent.com/Hexogenx/simplefracfilter/master/simplefracfilter.user.js
+// @supportURL     https://github.com/Hexogenx/simplefracfilter
 // ==/UserScript==
 
 var getButton = document.createElement("input")
