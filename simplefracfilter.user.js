@@ -57,12 +57,12 @@ function removeArrays()
 	}
 }
 
-removeButton.type="button"
-removeButton.value="REMOVE"
-removeButton.onclick = removeArrays
-document.body.append(removeButton)
-
 getButton.type="button"
 getButton.value="GET"
 getButton.onclick = getArrays
 document.body.append(getButton)
+
+removeButton.type="button"
+removeButton.value="REMOVE"
+removeButton.onclick = removeArrays
+document.body.append(removeButton)
